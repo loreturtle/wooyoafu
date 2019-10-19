@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eingoobee.sumidiot.com/sitemap.xml
